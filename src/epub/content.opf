@@ -29,45 +29,76 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Thus Spake Zarathustra</dc:title>
 		<meta property="file-as" refines="#title">Thus Spake Zarathustra</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">A Book for All and None</dc:title>
+		<meta property="file-as" refines="#subtitle">Book for All and None, A</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Thus Spake Zarathustra: A Book for All and None</dc:title>
+		<meta property="file-as" refines="fulltitle">Thus Spake Zarathustra</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Superman (Philosophical concept)</dc:subject>
 		<dc:subject id="subject-2">Philosophy, German</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85130617</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85100918</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Philosophy</meta>
+		<dc:description id="description">After ten years spent in solitude, Zarathustra goes back amongst men to share his accumulated wisdom and prepare humanity for the Overman.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Thus Spake Zarathustra&lt;/i&gt; (1883–1885) is a most unusual book. It was &lt;a href="https://standardebooks.org/ebooks/friedrich-nietzsche"&gt;Friedrich Nietzsche&lt;/a&gt;’s favourite, and has been his most popular amongst general readers. Yet, some philosophy scholars tend to dislike it because of its unphilosophical nature: eschewing jargon and the scaffolding of arguments, which engage only the intellect, in favour of an artistic approach that engages the whole mind.&lt;/p&gt;
+			&lt;p&gt;After ten years of solitude in a cave high in the mountains, Zarathustra wishes to share with humanity the wisdom he has accumulated during this time. He reaches the nearest town and addresses the crowd on the marketplace. He tells them of the Overman: the next step in human evolution, a being who creates their own values, freed from the weight of tradition and morality, and who takes responsibility for their successes and failures. But the crowd doesn’t understand him; his discourse is met only with rude ignorance. Zarathustra then decides to gather a small group of disciples and share his wisdom with them.&lt;/p&gt;
+			&lt;p&gt;The bulk of the book are Zarathustra’s speeches on topics such as morality, society, individualism, religion, and how suffering and its overcoming are the meaning-givers of our existences. While already wiser than most, Zarathustra still learns from those he talks to, re-evaluating his thoughts as he deals with disappointment (such as when his disciples prove to be mere followers), and confronting his own doubts. His greatest challenge, though, comes when he faces the existential test of the eternal recurrence of the same: the thought that our lives could repeat indefinitely without the minutest of change.&lt;/p&gt;
+			&lt;p&gt;The inspiration for &lt;i&gt;Zarathustra&lt;/i&gt; came to Nietzsche during one of the long hikes he often indulged in despite his failing health. It was a decade of solitude: his physical condition had worsened to the point of forcing him to retire from his position at the University of Basel, and each change of season prompted him to relocate to kinder climes in Switzerland, France, or Italy. The book took two years to write. Each of its four parts was written in a ten-day period of creative effervescence followed by months of gloom, plagued by terrible, debilitating migraines.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Zarathustra&lt;/i&gt; was initially received at best with indifference and at worst with frustration. It was a work of philosophy as much as aesthetics: the language was modelled after the Luther Bible and contained numerous references to Homer, Heraclitus, Plato, Goethe, Emerson, and Wagner, to name a few. Nietzsche attempted to address the lack of popularity by framing the same concepts in a more traditional, approachable manner in his following book, &lt;a href="https://standardebooks.org/ebooks/friedrich-nietzsche/beyond-good-and-evil/helen-zimmern"&gt;&lt;i&gt;Beyond Good and Evil&lt;/i&gt;&lt;/a&gt;, but this one also struggled to find an audience.&lt;/p&gt;
+			&lt;p&gt;With his health steadily deteriorating, Nietzsche’s mind broke down in 1889 and never recovered. His body would live on for 11 more years and he ended up in the care of his sister, Elisabeth. A stalwart nationalist and anti-Semite, she had previously assisted her like-minded husband in the establishment of a “pure” German colony in Paraguay. The project failed and he committed suicide rather than face bankruptcy. Elisabeth saw in her brother’s illness the opportunity to turn him into the German hero her husband had failed to be.&lt;/p&gt;
+			&lt;p&gt;Despite her brother’s firm opposition to nationalism, anti-Semitism, and power politics, she perverted his work by promoting it for her own ends. She went as far as maliciously editing unpublished notes and forging documents to make it conform with her own beliefs. She supported the rise of the Nazi party and curried favour with them by associating Friedrich’s work their ideology. Elisabeth’s action were only discovered after her death. Adolf Hitler attended her funeral.&lt;/p&gt;
+			&lt;p&gt;Scores of commentators partook in her lie and enthusiastically used Nietzsche’s work to buttress their own disturbing views. Doing so requires one to selectively ignore half the content of the book: Zarathustra’s discourses regularly touch on a priori dark and violent themes, but they also clearly state that these are to be directed towards oneself. Reaching the Overman requires us to know ourselves, and such introspection, given the darker side of human nature, leads to contempt. This contempt for ourselves, says Nietzsche, should be embraced as the first step towards awareness of what we could be. Cruelty, likewise, stems from that knowledge as a necessity to hammer ourselves into the proper shape. Such commentators also conveniently ignored Zarathustra’s many remarks about love: love for ourselves, he says, is what can prevent us from spreading resentment around us during this difficult process of change.&lt;/p&gt;
+			&lt;p&gt;Nietzsche is now considered one of the most influential modern thinkers. His philosophy, particularly through his challenging but rewarding &lt;i&gt;Zarathustra&lt;/i&gt;, has reached far and wide. His mark can, of course, be found on philosophy, specifically existentialism and deconstruction, but also psychology through Sigmund Freud and Carl Jung, and theology. &lt;i&gt;Zarathustra&lt;/i&gt; did not find itself limited to Europe: soon after its publication, it reached Asia where it was received with enthusiasm, particularly in China and Japan where it influenced the famous Kyoto School.&lt;/p&gt;
+			&lt;p&gt;The first English translation of &lt;i&gt;Zarathustra&lt;/i&gt; was done by Alexander Tille, a German scholar who had emigrated to Scotland. English wasn't his first language and his work suffered from it. Thomas Common, a Scottish scholar, used Tille’s work as the base for his own translation. Bringing &lt;i&gt;Zarathustra&lt;/i&gt; to the English-speaking world was no easy task given Nietzsche’s stylistic idiosyncrasies. Just like Nietzsche, Common took risks: because the book was written in the style of the Luther Bible, Common decided to emulate the style of the King James Bible; he also tried to reproduce the musicality of the language and the new words coined by Nietzsche—some terms have been updated over time, e.g, Common’s Superman is nowadays known as Overman. While his choices have been controversial, he produced a landmark translation that faithfully tried to convert the unique flavour of &lt;i&gt;Zarathustra&lt;/i&gt; into English. Published in 1909, it would take four decades until the next translation by Walter Kaufman in 1954.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Zarathustra&lt;/i&gt; has also received special attention from the music world. Nietzsche loved music and poetry and it was his wish that this book be taken as music. No fewer than 87 pieces have been inspired by the book, in part or as a whole. The best known are Richard Strauss’ &lt;i&gt;Also Sprach Zarathustra&lt;/i&gt;, the fourth movement of Gustav Mahler’s Symphony No. 3, and Frederick Delius’ &lt;i&gt;A Mass of Life&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Zarathustra&lt;/i&gt; continues to inspire and confuse, frustrate and challenge. Nietzsche was an engaging writer with the rare quality of always eliciting a reaction: agree or disagree, one can’t stay indifferent to his ideas. For a philosopher, there is, perhaps, no greater praise.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1998</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:source>https://www.google.com/books/edition/The_Complete_Works_of_Friedrich_Nietzsch/0Tg4AAAAYAAJ</dc:source>
+		<meta property="se:production-notes">
+			Typogrify:
+
+			The text features several two-em-dashes and a three-em-dash at seemingly random places. This is a deliberate attempt by Nietzsche, preserved in the translation, to add rhythm and musicality to the text. Typogrify tries to change them back to regular em-dashes and/or add word joiners after them.
+
+			Chapter 74, line 102: A comma followed by an em-dash, also intended by the author, is targetted for removal.
+
+			Modernize-spelling:
+
+			Chapter 37, line 27: “moon-eyes” keeps the hyphen because it refers to actual eyes and not a type of fish.
+			Chapter 40: “fire-dog” refers to a fantastical creature and not part of a fireplace and thus keeps the hyphen.
+		</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Thus_Spake_Zarathustra</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/friedrich-nietzsche_thus-spake-zarathustra</meta>
 		<dc:creator id="author">Friedrich Nietzsche</dc:creator>
 		<meta property="file-as" refines="#author">Nietzsche, Friedrich</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Friedrich Wilhelm Nietzsche</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Friedrich_Nietzsche</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79021132</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79021132</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Albert Bierstadt</dc:contributor>
+		<meta property="file-as" refines="#artist">Bierstadt, Albert</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Albert_Bierstadt</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50011230</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Sue Asscher</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Asscher, Sue</meta>
+		<meta property="se:url.authority.nacoaf" refines="transcriber-1">http://id.loc.gov/authorities/names/no99061061</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
+		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">François Grandjean</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Grandjean, François</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -83,14 +114,184 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/chapter-1.xhtml" id="chapter-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-2.xhtml" id="chapter-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-3.xhtml" id="chapter-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-4.xhtml" id="chapter-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-5.xhtml" id="chapter-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-6.xhtml" id="chapter-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-7.xhtml" id="chapter-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-8.xhtml" id="chapter-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-9.xhtml" id="chapter-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-10.xhtml" id="chapter-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-11.xhtml" id="chapter-11.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-12.xhtml" id="chapter-12.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-13.xhtml" id="chapter-13.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-14.xhtml" id="chapter-14.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-15.xhtml" id="chapter-15.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-16.xhtml" id="chapter-16.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-17.xhtml" id="chapter-17.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-18.xhtml" id="chapter-18.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-19.xhtml" id="chapter-19.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-20.xhtml" id="chapter-20.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-21.xhtml" id="chapter-21.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-22.xhtml" id="chapter-22.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-23.xhtml" id="chapter-23.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-24.xhtml" id="chapter-24.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-25.xhtml" id="chapter-25.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-26.xhtml" id="chapter-26.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-27.xhtml" id="chapter-27.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-28.xhtml" id="chapter-28.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-29.xhtml" id="chapter-29.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-30.xhtml" id="chapter-30.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-31.xhtml" id="chapter-31.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-32.xhtml" id="chapter-32.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-33.xhtml" id="chapter-33.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-34.xhtml" id="chapter-34.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-35.xhtml" id="chapter-35.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-36.xhtml" id="chapter-36.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-37.xhtml" id="chapter-37.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-38.xhtml" id="chapter-38.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-39.xhtml" id="chapter-39.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-40.xhtml" id="chapter-40.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-41.xhtml" id="chapter-41.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-42.xhtml" id="chapter-42.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-43.xhtml" id="chapter-43.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-44.xhtml" id="chapter-44.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-45.xhtml" id="chapter-45.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-46.xhtml" id="chapter-46.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-47.xhtml" id="chapter-47.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-48.xhtml" id="chapter-48.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-49.xhtml" id="chapter-49.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-50.xhtml" id="chapter-50.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-51.xhtml" id="chapter-51.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-52.xhtml" id="chapter-52.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-53.xhtml" id="chapter-53.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-54.xhtml" id="chapter-54.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-55.xhtml" id="chapter-55.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-56.xhtml" id="chapter-56.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-57.xhtml" id="chapter-57.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-58.xhtml" id="chapter-58.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-59.xhtml" id="chapter-59.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-60.xhtml" id="chapter-60.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-61.xhtml" id="chapter-61.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-62.xhtml" id="chapter-62.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-63.xhtml" id="chapter-63.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-64.xhtml" id="chapter-64.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-65.xhtml" id="chapter-65.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-66.xhtml" id="chapter-66.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-67.xhtml" id="chapter-67.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-68.xhtml" id="chapter-68.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-69.xhtml" id="chapter-69.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-70.xhtml" id="chapter-70.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-71.xhtml" id="chapter-71.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-72.xhtml" id="chapter-72.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-73.xhtml" id="chapter-73.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-74.xhtml" id="chapter-74.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-75.xhtml" id="chapter-75.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-76.xhtml" id="chapter-76.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-77.xhtml" id="chapter-77.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-78.xhtml" id="chapter-78.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-79.xhtml" id="chapter-79.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-80.xhtml" id="chapter-80.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/part-1.xhtml" id="part-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/part-2.xhtml" id="part-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/part-3.xhtml" id="part-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/part-4.xhtml" id="part-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/prologue.xhtml" id="prologue.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="part-1.xhtml"/>
+		<itemref idref="prologue.xhtml"/>
+		<itemref idref="chapter-1.xhtml"/>
+		<itemref idref="chapter-2.xhtml"/>
+		<itemref idref="chapter-3.xhtml"/>
+		<itemref idref="chapter-4.xhtml"/>
+		<itemref idref="chapter-5.xhtml"/>
+		<itemref idref="chapter-6.xhtml"/>
+		<itemref idref="chapter-7.xhtml"/>
+		<itemref idref="chapter-8.xhtml"/>
+		<itemref idref="chapter-9.xhtml"/>
+		<itemref idref="chapter-10.xhtml"/>
+		<itemref idref="chapter-11.xhtml"/>
+		<itemref idref="chapter-12.xhtml"/>
+		<itemref idref="chapter-13.xhtml"/>
+		<itemref idref="chapter-14.xhtml"/>
+		<itemref idref="chapter-15.xhtml"/>
+		<itemref idref="chapter-16.xhtml"/>
+		<itemref idref="chapter-17.xhtml"/>
+		<itemref idref="chapter-18.xhtml"/>
+		<itemref idref="chapter-19.xhtml"/>
+		<itemref idref="chapter-20.xhtml"/>
+		<itemref idref="chapter-21.xhtml"/>
+		<itemref idref="chapter-22.xhtml"/>
+		<itemref idref="part-2.xhtml"/>
+		<itemref idref="chapter-23.xhtml"/>
+		<itemref idref="chapter-24.xhtml"/>
+		<itemref idref="chapter-25.xhtml"/>
+		<itemref idref="chapter-26.xhtml"/>
+		<itemref idref="chapter-27.xhtml"/>
+		<itemref idref="chapter-28.xhtml"/>
+		<itemref idref="chapter-29.xhtml"/>
+		<itemref idref="chapter-30.xhtml"/>
+		<itemref idref="chapter-31.xhtml"/>
+		<itemref idref="chapter-32.xhtml"/>
+		<itemref idref="chapter-33.xhtml"/>
+		<itemref idref="chapter-34.xhtml"/>
+		<itemref idref="chapter-35.xhtml"/>
+		<itemref idref="chapter-36.xhtml"/>
+		<itemref idref="chapter-37.xhtml"/>
+		<itemref idref="chapter-38.xhtml"/>
+		<itemref idref="chapter-39.xhtml"/>
+		<itemref idref="chapter-40.xhtml"/>
+		<itemref idref="chapter-41.xhtml"/>
+		<itemref idref="chapter-42.xhtml"/>
+		<itemref idref="chapter-43.xhtml"/>
+		<itemref idref="chapter-44.xhtml"/>
+		<itemref idref="part-3.xhtml"/>
+		<itemref idref="chapter-45.xhtml"/>
+		<itemref idref="chapter-46.xhtml"/>
+		<itemref idref="chapter-47.xhtml"/>
+		<itemref idref="chapter-48.xhtml"/>
+		<itemref idref="chapter-49.xhtml"/>
+		<itemref idref="chapter-50.xhtml"/>
+		<itemref idref="chapter-51.xhtml"/>
+		<itemref idref="chapter-52.xhtml"/>
+		<itemref idref="chapter-53.xhtml"/>
+		<itemref idref="chapter-54.xhtml"/>
+		<itemref idref="chapter-55.xhtml"/>
+		<itemref idref="chapter-56.xhtml"/>
+		<itemref idref="chapter-57.xhtml"/>
+		<itemref idref="chapter-58.xhtml"/>
+		<itemref idref="chapter-59.xhtml"/>
+		<itemref idref="chapter-60.xhtml"/>
+		<itemref idref="part-4.xhtml"/>
+		<itemref idref="chapter-61.xhtml"/>
+		<itemref idref="chapter-62.xhtml"/>
+		<itemref idref="chapter-63.xhtml"/>
+		<itemref idref="chapter-64.xhtml"/>
+		<itemref idref="chapter-65.xhtml"/>
+		<itemref idref="chapter-66.xhtml"/>
+		<itemref idref="chapter-67.xhtml"/>
+		<itemref idref="chapter-68.xhtml"/>
+		<itemref idref="chapter-69.xhtml"/>
+		<itemref idref="chapter-70.xhtml"/>
+		<itemref idref="chapter-71.xhtml"/>
+		<itemref idref="chapter-72.xhtml"/>
+		<itemref idref="chapter-73.xhtml"/>
+		<itemref idref="chapter-74.xhtml"/>
+		<itemref idref="chapter-75.xhtml"/>
+		<itemref idref="chapter-76.xhtml"/>
+		<itemref idref="chapter-77.xhtml"/>
+		<itemref idref="chapter-78.xhtml"/>
+		<itemref idref="chapter-79.xhtml"/>
+		<itemref idref="chapter-80.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>

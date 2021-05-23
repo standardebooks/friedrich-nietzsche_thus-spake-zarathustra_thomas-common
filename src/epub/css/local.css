@@ -25,7 +25,7 @@ p span.i1{
 	text-indent: -1em;
 }
 
-p span.count{
+#chapter-59 [epub|type~="z3998:song"] p > span:nth-of-type(odd){
 	text-align: center;
 	font-style: italic;
 }

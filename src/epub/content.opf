@@ -79,7 +79,7 @@
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Thus_Spake_Zarathustra</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/friedrich-nietzsche_thus-spake-zarathustra</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/friedrich-nietzsche_thus-spake-zarathustra_thomas-common</meta>
 		<dc:creator id="author">Friedrich Nietzsche</dc:creator>
 		<meta property="file-as" refines="#author">Nietzsche, Friedrich</meta>
 		<meta property="se:name.person.full-name" refines="#author">Friedrich Wilhelm Nietzsche</meta>

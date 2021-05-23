@@ -69,6 +69,8 @@
 
 			Chapter 74, line 102: A comma followed by an em-dash, also intended by the author, is targetted for removal.
 
+			Several instances of “Ye‑a” through the book use a non-breaking hyphen to stretch out the word. Typogrify incorrectly attempts to replace them with a regular hyphen.
+
 			Modernize-spelling:
 
 			Chapter 37, line 27: “moon-eyes” keeps the hyphen because it refers to actual eyes and not a type of fish.

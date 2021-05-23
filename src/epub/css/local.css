@@ -30,6 +30,6 @@ p span.i1{
 	font-style: italic;
 }
 
-#chapter-79 blockquote{
+#chapter-79 [epub|type~="z3998:song"] p{
 	font-style: italic;
 }

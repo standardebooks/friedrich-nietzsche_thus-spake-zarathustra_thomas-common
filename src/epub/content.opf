@@ -34,7 +34,7 @@
 		<meta property="file-as" refines="#subtitle">Book for All and None, A</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Thus Spake Zarathustra: A Book for All and None</dc:title>
-		<meta property="file-as" refines="fulltitle">Thus Spake Zarathustra</meta>
+		<meta property="file-as" refines="#fulltitle">Thus Spake Zarathustra</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Superman (Philosophical concept)</dc:subject>
 		<dc:subject id="subject-2">Philosophy, German</dc:subject>

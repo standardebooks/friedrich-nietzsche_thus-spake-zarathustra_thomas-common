@@ -63,7 +63,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/1998</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Complete_Works_of_Friedrich_Nietzsch/0Tg4AAAAYAAJ</dc:source>
 		<meta property="se:production-notes">
-			Quotation marks usage in the original text is idiosyncratic: some quotes aren’t closed for several paragraphs, and some spoken parts do not use quotation marks at all. For the former, open marks were added to make it easier to follow that the same speech is still ongoing; latter cases were left untouched.
+			Quotation marks usage in the original text is idiosyncratic: some quotes aren’t closed for several paragraphs, and some spoken parts do not use quotation marks at all. For the former, open marks were added in an editorial commit to make it easier to follow that the same speech is still ongoing; latter cases were left untouched.
 
 			Typogrify:
 

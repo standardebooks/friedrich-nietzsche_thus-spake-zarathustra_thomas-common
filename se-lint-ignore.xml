@@ -20,10 +20,6 @@
 	</file>
 	<file path="chapter-56.xhtml">
 		<ignore>
-			<code>t-017</code>
-			<reason>Phrase is an independent clause.</reason>
-		</ignore>
-		<ignore>
 			<code>t-042</code>
 			<reason>For and Against are capitalised because they express concepts.</reason>
 		</ignore>
@@ -32,12 +28,6 @@
 		<ignore>
 			<code>t-003</code>
 			<reason>Dialogue from same speaker spans several paragraphs.</reason>
-		</ignore>
-	</file>
-	<file path="chapter-79.xhtml">
-		<ignore>
-			<code>t-017</code>
-			<reason>Phrase is an independent clause.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>

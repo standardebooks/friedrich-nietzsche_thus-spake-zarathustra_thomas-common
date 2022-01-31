@@ -13,9 +13,9 @@
 }
 
 [epub|type~="epigraph"] cite{
-	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
+	margin-top: 1em;
 }
 
 [epub|type~="epigraph"] cite i{
@@ -63,8 +63,8 @@ p span.i1{
 }
 
 #chapter-59 [epub|type~="z3998:song"] p > span:nth-of-type(odd){
-	text-align: center;
 	font-style: italic;
+	text-align: center;
 }
 
 #chapter-79 [epub|type~="z3998:song"] p{

@@ -8,7 +8,7 @@
 	</file>
 	<file path="chapter-12.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-026</code>
 			<reason>For and Against are capitalised because they express concepts.</reason>
 		</ignore>
 	</file>
@@ -20,7 +20,7 @@
 	</file>
 	<file path="chapter-56.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-026</code>
 			<reason>For and Against are capitalised because they express concepts.</reason>
 		</ignore>
 	</file>

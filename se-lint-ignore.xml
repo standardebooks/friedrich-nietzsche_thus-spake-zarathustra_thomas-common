@@ -24,6 +24,12 @@
 			<reason>For and Against are capitalised because they express concepts.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-57.xhtml">
+		<ignore>
+			<code>y-033</code>
+			<reason>Three-em-dash use is a matter of prose style.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-67.xhtml">
 		<ignore>
 			<code>t-003</code>

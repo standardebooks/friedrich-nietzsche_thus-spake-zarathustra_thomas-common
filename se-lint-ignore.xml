@@ -1,38 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-8.xhtml">
-		<ignore>
-			<code>t-003</code>
+		<ignore code="t-003">
 			<reason>Dialogue from same speaker spans several paragraphs.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-12.xhtml">
-		<ignore>
-			<code>y-026</code>
+		<ignore code="y-026">
 			<reason>For and Against are capitalised because they express concepts.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-42.xhtml">
-		<ignore>
-			<code>t-003</code>
+		<ignore code="t-003">
 			<reason>Dialogue from same speaker spans several paragraphs.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-56.xhtml">
-		<ignore>
-			<code>y-026</code>
+		<ignore code="y-026">
 			<reason>For and Against are capitalised because they express concepts.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-57.xhtml">
-		<ignore>
-			<code>y-033</code>
+		<ignore code="y-033">
 			<reason>Three-em-dash use is a matter of prose style.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-67.xhtml">
-		<ignore>
-			<code>t-003</code>
+		<ignore code="t-003">
 			<reason>Dialogue from same speaker spans several paragraphs.</reason>
 		</ignore>
 	</file>

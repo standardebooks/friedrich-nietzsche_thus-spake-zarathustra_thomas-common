@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/friedrich-nietzsche/thus-spake-zarathustra/thomas-common</dc:identifier>
 		<dc:date>2021-07-10T18:44:38Z</dc:date>
 		<meta property="dcterms:modified">2021-07-10T18:44:38Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org/</meta>
+		<link href="https://standardebooks.org/" refines="#publisher" rel="schema:url"/>
 		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
+		<link href="https://www.theleagueofmoveabletype.com/" refines="#type-designer" rel="schema:url"/>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
@@ -42,7 +43,7 @@
 		<meta property="term" refines="#subject-1">sh85130617</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85100918</meta>
-		<meta property="se:subject">Philosophy</meta>
+		<meta property="schema:genre">Philosophy</meta>
 		<dc:description id="description">After ten years spent in solitude, Zarathustra goes back amongst men to share his accumulated wisdom and prepare humanity for the Overman.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Thus Spake Zarathustra&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/friedrich-nietzsche"&gt;Friedrich Nietzsche’s&lt;/a&gt; favorite of the books he wrote, and has been his most popular amongst general readers. Yet some scholars dislike it because of its unphilosophical nature: it eschews jargon and the scaffolding of arguments, which engage only the intellect, in favor of an artistic approach that engages the whole mind.&lt;/p&gt;
@@ -57,50 +58,35 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1998</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Complete_Works_of_Friedrich_Nietzsch/0Tg4AAAAYAAJ</dc:source>
-		<meta property="se:production-notes">
-			Quotation marks usage in the original text is idiosyncratic: some quotes aren’t closed for several paragraphs, and some spoken parts do not use quotation marks at all. For the former, open marks were added in an editorial commit to make it easier to follow that the same speech is still ongoing; latter cases were left untouched.
-
-			Typogrify:
-
-			The text features several two-em-dashes and a three-em-dash at seemingly random places. This is a deliberate attempt by Nietzsche, preserved in the translation, to add rhythm and musicality to the text. Typogrify tries to change them back to regular em-dashes and/or add word joiners after them.
-
-			Chapter 74, line 102: A comma followed by an em-dash, also intended by the author, is targetted for removal.
-
-			Several instances of “Ye‑a” through the text use a non-breaking hyphen to stretch out the word. Typogrify incorrectly attempts to replace them with a regular hyphen.
-
-			Modernize-spelling:
-
-			Chapter 37, line 27: “moon-eyes” keeps the hyphen because it refers to eyes with moon-like quality and not a type of fish.
-			Chapter 40: “fire-dog” refers to a fantastical creature and not part of a fireplace and thus keeps the hyphen.
-			Chapter 50: “white-head” refers to a white-haired head, not a skin problem.
-		</meta>
-		<meta property="se:word-count">90981</meta>
-		<meta property="se:reading-ease.flesch">72.56</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Thus_Spake_Zarathustra</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/friedrich-nietzsche_thus-spake-zarathustra_thomas-common</meta>
+		<meta property="schema:wordCount">90981</meta>
+		<meta property="schema:educationalLevel">72.56</meta>
+		<link href="https://en.wikipedia.org/wiki/Thus_Spake_Zarathustra" rel="schema:sameAs"/>
+		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
+		<link href="https://github.com/standardebooks/friedrich-nietzsche_thus-spake-zarathustra_thomas-common" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Friedrich Nietzsche</dc:creator>
 		<meta property="file-as" refines="#author">Nietzsche, Friedrich</meta>
-		<meta property="se:name.person.full-name" refines="#author">Friedrich Wilhelm Nietzsche</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Friedrich_Nietzsche</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79021132</meta>
+		<meta property="schema:alternateName" refines="#author">Friedrich Wilhelm Nietzsche</meta>
+		<link href="https://en.wikipedia.org/wiki/Friedrich_Nietzsche" refines="#author" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n79021132.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Thomas Common</dc:contributor>
 		<meta property="file-as" refines="#translator">Common, Thomas</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Thomas_Common</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n93077158</meta>
+		<link href="https://en.wikipedia.org/wiki/Thomas_Common" refines="#translator" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n93077158.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Albert Bierstadt</dc:contributor>
 		<meta property="file-as" refines="#artist">Bierstadt, Albert</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Albert_Bierstadt</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50011230</meta>
+		<link href="https://en.wikipedia.org/wiki/Albert_Bierstadt" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n50011230.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Sue Asscher</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Asscher, Sue</meta>
-		<meta property="se:url.authority.nacoaf" refines="transcriber-1">http://id.loc.gov/authorities/names/no99061061</meta>
+		<link href="https://id.loc.gov/authorities/names/no99061061.html" refines="transcriber-1" rel="schema:sameAs"/>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
-		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
+		<link href="https://id.loc.gov/authorities/names/no2011017869.html" refines="#transcriber-2" rel="schema:sameAs"/>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">François Grandjean</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Grandjean, François</meta>
@@ -112,7 +98,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
-		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com/</meta>
+		<link href="http://www.robinwhittleton.com/" refines="#producer-2" rel="schema:url"/>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>

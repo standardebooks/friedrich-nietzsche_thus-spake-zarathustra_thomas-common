@@ -44,7 +44,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85100918</meta>
 		<meta property="schema:genre">Philosophy</meta>
-		<dc:abstract>After ten years spent in solitude, Zarathustra goes back amongst men to share his accumulated wisdom and prepare humanity for the Overman.</dc:abstract>
+		<meta property="schema:abstract">After ten years spent in solitude, Zarathustra goes back amongst men to share his accumulated wisdom and prepare humanity for the Overman.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Thus Spake Zarathustra&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/friedrich-nietzsche"&gt;Friedrich Nietzsche’s&lt;/a&gt; favorite of the books he wrote, and has been his most popular amongst general readers. Yet some scholars dislike it because of its unphilosophical nature: it eschews jargon and the scaffolding of arguments, which engage only the intellect, in favor of an artistic approach that engages the whole mind.&lt;/p&gt;
 			&lt;p&gt;After ten years of solitude in a cave high in the mountains, Zarathustra wishes to share with humanity the wisdom he has accumulated during this time. He reaches the nearest town and addresses the crowd on the marketplace. He tells them of the Overman: the next step in human evolution, a being who creates their own values, freed from the weight of tradition and morality, and who takes responsibility for their own successes and failures. But the crowd doesn’t understand him; his discourse is met only with rude ignorance. Zarathustra then decides to gather a small group of disciples and share his wisdom with them.&lt;/p&gt;
